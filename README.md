@@ -1,7 +1,7 @@
 # Tableau
 Test repo for Teabeau notebooks
 
-"Covid-19 in India"
+1. "Covid-19 in India"
 
 <p align="center">
 <img src="https://github.com/maneesh51/Tableau/blob/main/Covid19_India.PNG" width="700" height="500">
